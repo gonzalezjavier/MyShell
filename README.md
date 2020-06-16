@@ -1,8 +1,8 @@
 # CSC 415 - Project 3 - My Shell
 
-## Student Name: Name here
+## Student Name: Javier Gonzalez
 
-## Student ID: ID Here
+## Student ID: 916582412
 
 ## Build Instructions
 
